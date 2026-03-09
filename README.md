@@ -20,7 +20,6 @@ This work was completed as part of a **Research Internship at National Institute
 ![Jupyter](https://img.shields.io/badge/JupyterNotebook-Development-yellow?style=for-the-badge&logo=jupyter)
 
 ---
-
 # 📌 Problem Statement
 
 **Hop Total Roman Domination (HTRD)** is an advanced graph theory problem where nodes must be labeled such that domination constraints are satisfied within **two-hop distances**.
